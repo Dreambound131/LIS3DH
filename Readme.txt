@@ -1,1 +1,1 @@
-This is an example of how to use LIS3DH (mki105v1) with Arduino, Raspberry Pi 3 and Lattepanda
+Arduino sketch to read data from LIS3DH
